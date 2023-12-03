@@ -38,8 +38,8 @@ Restaurant Explorer is a React application that showcases information about a re
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/restaurant-explorer.git
-cd restaurant-explorer
+git clone https://github.com/theabinashpanda/restaurant_app
+cd restaurant_app
 
 2. Install dependencies
 ```bash
