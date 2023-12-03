@@ -17,7 +17,6 @@ const Filters = () => {
         <label htmlFor="price">Price Range:</label>
         <input type="range" id="price" name="price" min="0" max="100" />
       </div>
-      {/* Add more filter options or UI elements as needed */}
     </div>
   );
 };
