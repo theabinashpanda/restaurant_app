@@ -17,7 +17,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "json-server": "json-server --watch db.json --port 3001",
-    "dev": "concurrently \"npm run start\" \"npm run json-server\""
+    "dev": "concurrently \"npm run start\" \"npm run json-server\"",
+    "mockapi": "node mockapi.js"
   },
   "eslintConfig": {
     "extends": [
