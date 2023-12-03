@@ -37,13 +37,31 @@ Restaurant Explorer is a React application that showcases information about a re
 
 1. Clone the repository:
 
-```python
+```bash
 git clone https://github.com/theabinashpanda/restaurant_app
 cd restaurant_app
 ```
 
 2. Install dependencies
 
-```python
+```bash
 npm install
 ```
+
+### Running the App
+
+1. Start the mock API server:
+```bash
+npm run mockapi
+```
+
+2. Start the React application:
+```bash
+npm start
+```
+
+### Additional Features
+
+- Google Map Integration: A link to Google Maps with the restaurant's coordinates.
+- Trending Dishes: Display trending or recommended dishes based on ratings.
+- Images for Food: Enhance the visual appeal by adding images for each menu item.
