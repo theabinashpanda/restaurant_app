@@ -11,10 +11,6 @@ Restaurant Explorer is a React application that showcases information about a re
   - [Installation](#installation)
 - [Running the App](#running-the-app)
 - [REST API](#rest-api)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - Display restaurant details, including awards, ambiance, sustainability initiatives, and upcoming events.
@@ -65,3 +61,6 @@ npm start
 - Google Map Integration: A link to Google Maps with the restaurant's coordinates.
 - Trending Dishes: Display trending or recommended dishes based on ratings.
 - Images for Food: Enhance the visual appeal by adding images for each menu item.
+
+### REST API
+- The mock API is created using `json-server`.
