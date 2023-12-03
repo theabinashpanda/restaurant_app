@@ -37,13 +37,13 @@ Restaurant Explorer is a React application that showcases information about a re
 
 1. Clone the repository:
 
-```bash
+```python
 git clone https://github.com/theabinashpanda/restaurant_app
 cd restaurant_app
 ```
 
 2. Install dependencies
 
-```bash
+```python
 npm install
 ```
