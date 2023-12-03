@@ -40,7 +40,10 @@ Restaurant Explorer is a React application that showcases information about a re
 ```bash
 git clone https://github.com/theabinashpanda/restaurant_app
 cd restaurant_app
+```
 
 2. Install dependencies
+
 ```bash
 npm install
+```
